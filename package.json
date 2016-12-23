@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "main": "dist/index.js",
   "scripts": {
