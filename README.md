@@ -1,0 +1,1 @@
+# test-friday-tech-npm-package
